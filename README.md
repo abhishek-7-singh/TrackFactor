@@ -1,5 +1,6 @@
 # TrackFactor 🏋️‍♂️
-
+## Author - Abhishek Singh 
+## Vellore Institute of Technology, Chemnai
 A comprehensive Flutter fitness tracking application that combines workout logging, nutrition tracking, and step counting with beautiful, professional animations and a clean UI design.
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
