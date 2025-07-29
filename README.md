@@ -14,6 +14,7 @@ A comprehensive Flutter fitness tracking application that combines workout loggi
 - **Progressive Overload**: Track your strength progress over time
 - **Exercise Details**: View targeted muscle groups, required equipment, and step-by-step instructions
 - **History**: Review past workout sessions and analyze performance trends
+<img width="384" height="861" alt="image" src="https://github.com/user-attachments/assets/7eb4e9cc-16d8-4a0e-aaf1-61d713b609f7" />
 
 ### 🍎 Nutrition Tracking
 - **Food Search**: Search for foods using the API Ninjas nutrition database
@@ -21,6 +22,7 @@ A comprehensive Flutter fitness tracking application that combines workout loggi
 - **Daily Goals**: Set and track daily nutrition targets
 - **Food Diary**: Log meals and snacks throughout the day
 - **Progress Visualization**: Charts showing nutrition trends over time
+<img width="382" height="861" alt="image" src="https://github.com/user-attachments/assets/76b052ec-aa13-415b-b46e-b226af95f466" />
 
 ### 👟 Step Counting
 - **Real-time Tracking**: Count steps using device sensors or connected wearables
@@ -28,6 +30,7 @@ A comprehensive Flutter fitness tracking application that combines workout loggi
 - **Distance Calculation**: Automatic distance and calorie burn estimation
 - **History Graphs**: Visualize step count trends and achievements
 - **Health Integration**: Sync with device health apps
+<img width="396" height="868" alt="image" src="https://github.com/user-attachments/assets/f983d44d-2e49-4d6d-90ae-490e376332fc" />
 
 ### 📊 Progress Analytics
 - **Comprehensive Charts**: Beautiful FL Chart visualizations for all metrics
@@ -35,6 +38,7 @@ A comprehensive Flutter fitness tracking application that combines workout loggi
 - **Performance Metrics**: Monitor workout volume, frequency, and intensity
 - **Achievement System**: Celebrate milestones and streaks
 - **Export Data**: Export your fitness data in CSV or JSON formats
+<img width="404" height="878" alt="image" src="https://github.com/user-attachments/assets/2ff003be-af0e-4a9d-b016-8b9afbab5c89" />
 
 ### ⚙️ Settings & Customization
 - **Profile Management**: Personal information and fitness goals
@@ -42,6 +46,7 @@ A comprehensive Flutter fitness tracking application that combines workout loggi
 - **Notifications**: Configurable reminders for workouts and meals
 - **Wearable Integration**: Connect fitness trackers and smartwatches
 - **Privacy Controls**: Manage data sharing and storage preferences
+<img width="394" height="865" alt="image" src="https://github.com/user-attachments/assets/84deda89-a5d6-4669-a883-79d976c1e49c" />
 
 ## 🏗️ Architecture
 
